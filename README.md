@@ -1,2 +1,23 @@
-# retail-insights-dashboard
-A simple Retail Insights Dashboard built with Streamlit and Python. Upload a CSV file of sales data and get instant insights such as:  Data preview &amp; summary statistics  ,Sales by category  , Monthly sales trends  ,Top 5 best-selling products  , Built with Streamlit by Ajal Biju
+# 🛍️ Retail Insights Dashboard
+
+A simple **Retail Insights Dashboard** built with **Streamlit** and **Python**.  
+Upload your sales data (CSV) and get instant insights into categories, products, and trends.  
+
+
+
+## ✨ Features
+- 📂 Upload your own CSV sales dataset  
+- 📊 Data preview & summary statistics  
+- 🛒 Sales by Category (Bar Chart)  
+- 📅 Monthly Sales Trend (Line Chart)  
+- 🏆 Top 5 Best-Selling Products (Bar Chart)  
+
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/<your-username>/retail-insights-dashboard.git
+cd retail-insights-dashboard
+
