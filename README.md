@@ -1,5 +1,4 @@
-# 🛍️ Retail Insights Dashboard
-
+![Screenshot 2025-08-29 222011](https://github.com/user-attachments/assets/f11b2f1a-7aa9-4398-9529-116e56a7bdb6)
 A simple **Retail Insights Dashboard** built with **Streamlit** and **Python**.  
 Upload your sales data (CSV) and get instant insights into categories, products, and trends.  
 
